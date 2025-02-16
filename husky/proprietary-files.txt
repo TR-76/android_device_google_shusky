@@ -19,7 +19,7 @@ product/etc/sysconfig/preinstalled-packages-com.samsung.slsi.telephony.oemril.xm
 
 # Temperature sensor
 product/etc/sysconfig/firproximity.xml
-product/priv-app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk;PRESIGNED
+product/priv-app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk:product/app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk;PRESIGNED
 
 # system_ext partition
 
