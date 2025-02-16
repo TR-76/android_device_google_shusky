@@ -13,7 +13,7 @@ product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
 
 # Temperature sensor
 product/etc/sysconfig/firproximity.xml
-product/priv-app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk;PRESIGNED
+product/priv-app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk:product/app/HealthIntelligenceStubPrebuilt/HealthIntelligenceStubPrebuilt.apk;PRESIGNED
 
 # system_ext partition
 
