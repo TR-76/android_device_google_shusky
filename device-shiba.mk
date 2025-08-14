@@ -5,10 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-TARGET_LINUX_KERNEL_VERSION := 6.1
-TARGET_KERNEL_DEVICE := shusky
-TARGET_KERNEL_DIR := device/google/$(TARGET_KERNEL_DEVICE)-kernels/$(TARGET_LINUX_KERNEL_VERSION)
-TARGET_KERNEL_PLATFORM_SOURCE := google/gs-$(TARGET_LINUX_KERNEL_VERSION)
+TARGET_KERNEL_DIR := device/google/shusky-kernels
 
 LOCAL_PATH := device/google/shusky
 
