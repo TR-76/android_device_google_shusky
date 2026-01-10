@@ -16,6 +16,10 @@ $(call inherit-product, $(DEVICE_PATH)/aosp_$(DEVICE_CODENAME).mk)
 # Cromite Webview
 $(call inherit-product-if-exists, vendor/cromite/cromite.mk)
 
+# microG
+$(call inherit-product-if-exists, vendor/microg/config.mk)
+PRODUCT_BROKEN_VERIFY_USES_LIBRARIES := true
+
 # Device identifier. This must come after all inclusions
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Pixel 8
