@@ -43,7 +43,6 @@ PRODUCT_PACKAGES += \
     SafetyRegulatoryInfoOverlayProductShusky
 
 PRODUCT_PACKAGES += \
-    DMServiceOverlayVendorHusky \
     FrameworkResOverlayProductHusky \
     FrameworkResOverlayVendorHusky \
     PixelDisplayServiceOverlayProductHusky \
